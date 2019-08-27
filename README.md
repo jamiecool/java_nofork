@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/kubernetes-client/java.svg?branch=master)](https://travis-ci.org/kubernetes-client/java)
 [![Client Capabilities](https://img.shields.io/badge/Kubernetes%20client-Silver-blue.svg?style=flat&colorB=C0C0C0&colorA=306CE8)](http://bit.ly/kubernetes-client-capabilities-badge)
 [![Client Support Level](https://img.shields.io/badge/kubernetes%20client-beta-green.svg?style=flat&colorA=306CE8)](http://bit.ly/kubernetes-client-support-badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjamiecool%2Fjava_nofork.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjamiecool%2Fjava_nofork?ref=badge_shield)
 
 Java client for the [kubernetes](http://kubernetes.io/) API.
 
@@ -238,3 +239,7 @@ ${GEN_ROOT}/gen/openapi/java.sh kubernetes ./settings
 
 This should run through a long-ish build process involving `docker` and eventually result in a new set of
 generated code in the `kubernetes` directory.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjamiecool%2Fjava_nofork.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjamiecool%2Fjava_nofork?ref=badge_large)

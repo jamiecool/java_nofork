@@ -184,6 +184,7 @@ All APIs and Models' documentation can be found at the [Generated client's docs]
 
 Key: 
 
+
 * `✓` Exactly the same features / API objects in both java-client and the Kubernetes
   version.
 * `+` java-client has features or api objects that may not be present in the

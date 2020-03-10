@@ -60,3 +60,5 @@ public interface ApiCallback<T> {
      */
     void onDownloadProgress(long bytesRead, long contentLength, boolean done);
 }
+
+
